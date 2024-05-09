@@ -1,0 +1,1 @@
+This folder is where you will work on your Individual Challenge GPT exercises to evaluate the usefulness of this new technology to aid in the generation of code to facilitate the automation of common tasks. Details are found on the course website and submission portal on Canvas.  

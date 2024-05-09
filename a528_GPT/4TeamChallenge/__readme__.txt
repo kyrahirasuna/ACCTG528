@@ -1,0 +1,1 @@
+This folder is where you will save your final Team Challenge GPT Audit Application. Details are found on the course website and submission portal on Canvas.  

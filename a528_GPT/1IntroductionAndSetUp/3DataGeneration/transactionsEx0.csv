@@ -1,0 +1,92 @@
+Transaction ID,Date,Timestamp,Amount,Product Type,Character,Vendor,Transaction Description,Location
+1,2024-01-01,2024-01-01 21:46:53,15.13,dining,Spider-Man,Food Carts,Spider-Man enjoyed a meal at Pizza Places.,"Queens, New York"
+2,2024-01-02,2024-01-02 14:04:25,91.34,dining,Thor,Asgardian Feasts,Thor enjoyed a meal at Asgardian Feasts.,Asgard
+3,2024-01-03,2024-01-03 20:17:03,190.67,luxury items,Iron Man,Stark Industries,Iron Man indulged in luxury shopping at Stark Industries.,"Stark Tower, New York"
+4,2024-01-04,2024-01-04 20:01:02,167.83,dining,Iron Man,Avengers Tower Restaurant,Iron Man enjoyed a meal at New York City Restaurants.,"Stark Tower, New York"
+5,2024-01-05,2024-01-05 17:06:16,101.09,electronics,Iron Man,Stark Industries,Iron Man purchased a laptop from Stark Industries.,"Stark Tower, New York"
+6,2024-01-06,2024-01-06 15:02:22,53.0,luxury items,Iron Man,Stark Industries,Iron Man indulged in luxury shopping at Stark Industries.,"Stark Tower, New York"
+7,2024-01-07,2024-01-07 21:34:22,168.37,dining,Spider-Man,Pizza Places,Spider-Man enjoyed a meal at Pizza Places.,"Queens, New York"
+8,2024-01-08,2024-01-08 17:26:59,133.69,weapons,Thor,Odin's Armory,Thor bought a weapon from Odin's Armory.,Asgard
+9,2024-01-09,2024-01-09 15:14:20,59.11,photography supplies,Spider-Man,Daily Bugle Supplies,Spider-Man purchased photography supplies from Daily Bugle Supplies.,"Queens, New York"
+10,2024-01-10,2024-01-10 15:57:21,164.02,electronics,Iron Man,Stark Industries,Iron Man purchased a laptop from Stark Industries.,"Stark Tower, New York"
+11,2024-01-11,2024-01-11 14:29:02,144.69,dining,Iron Man,New York City Restaurants,Iron Man enjoyed a meal at Avengers Tower Restaurant.,"Stark Tower, New York"
+12,2024-01-12,2024-01-12 20:51:02,51.54,luxury items,Iron Man,Stark Industries,Iron Man indulged in luxury shopping at Stark Industries.,"Stark Tower, New York"
+13,2024-01-13,2024-01-13 21:53:03,105.76,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+14,2024-01-14,2024-01-14 20:51:13,27.98,luxury items,Iron Man,Stark Industries,Iron Man indulged in luxury shopping at Stark Industries.,"Stark Tower, New York"
+15,2024-01-15,2024-01-15 18:04:51,190.49,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+16,2024-01-16,2024-01-16 21:23:54,14.2,photography supplies,Spider-Man,Daily Bugle Supplies,Spider-Man purchased photography supplies from Daily Bugle Supplies.,"Queens, New York"
+17,2024-01-17,2024-01-17 18:02:00,49.24,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+18,2024-01-18,2024-01-18 18:55:07,71.65,weapons,Thor,Odin's Armory,Thor bought a weapon from Odin's Armory.,Asgard
+19,2024-01-19,2024-01-19 18:40:16,137.68,rare artifacts,Thor,Asgardian Antiques,Thor acquired a rare artifact from Asgardian Antiques.,Asgard
+20,2024-01-20,2024-01-20 21:57:34,123.71,dining,Thor,Asgardian Feasts,Thor enjoyed a meal at Asgardian Feasts.,Asgard
+21,2024-01-21,2024-01-21 10:21:51,168.1,dining,Spider-Man,Food Carts,Spider-Man enjoyed a meal at Pizza Places.,"Queens, New York"
+22,2024-01-22,2024-01-22 17:54:40,48.03,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+23,2024-01-23,2024-01-23 14:59:45,177.94,photography supplies,Spider-Man,Daily Bugle Supplies,Spider-Man purchased photography supplies from Daily Bugle Supplies.,"Queens, New York"
+24,2024-01-24,2024-01-24 20:44:21,122.02,luxury items,Iron Man,Stark Industries,Iron Man indulged in luxury shopping at Stark Industries.,"Stark Tower, New York"
+25,2024-01-25,2024-01-25 12:27:17,149.29,dining,Thor,Asgardian Feasts,Thor enjoyed a meal at Asgardian Feasts.,Asgard
+26,2024-01-26,2024-01-26 12:06:52,112.18,dining,Spider-Man,Pizza Places,Spider-Man enjoyed a meal at Food Carts.,"Queens, New York"
+27,2024-01-27,2024-01-27 21:27:16,179.23,rare artifacts,Thor,Asgardian Antiques,Thor acquired a rare artifact from Asgardian Antiques.,Asgard
+28,2024-01-28,2024-01-28 10:06:45,57.57,rare artifacts,Thor,Asgardian Antiques,Thor acquired a rare artifact from Asgardian Antiques.,Asgard
+29,2024-01-29,2024-01-29 16:21:42,116.3,dining,Iron Man,Avengers Tower Restaurant,Iron Man enjoyed a meal at Avengers Tower Restaurant.,"Stark Tower, New York"
+30,2024-01-30,2024-01-30 12:47:38,148.46,electronics,Iron Man,Stark Industries,Iron Man purchased a tablet from Stark Industries.,"Stark Tower, New York"
+31,2024-01-31,2024-01-31 17:50:28,116.27,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+32,2024-02-01,2024-02-01 16:17:54,87.91,dining,Thor,Asgardian Feasts,Thor enjoyed a meal at Asgardian Feasts.,Asgard
+33,2024-02-02,2024-02-02 14:18:29,18.94,photography supplies,Spider-Man,Daily Bugle Supplies,Spider-Man purchased photography supplies from Daily Bugle Supplies.,"Queens, New York"
+34,2024-02-03,2024-02-03 13:25:24,116.93,dining,Iron Man,Avengers Tower Restaurant,Iron Man enjoyed a meal at New York City Restaurants.,"Stark Tower, New York"
+35,2024-02-04,2024-02-04 10:28:04,171.34,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+36,2024-02-05,2024-02-05 16:26:42,19.98,rare artifacts,Thor,Asgardian Antiques,Thor acquired a rare artifact from Asgardian Antiques.,Asgard
+37,2024-02-06,2024-02-06 16:54:30,62.05,weapons,Thor,Odin's Armory,Thor bought a weapon from Odin's Armory.,Asgard
+38,2024-02-07,2024-02-07 17:58:49,95.79,electronics,Iron Man,Stark Tower Tech Store,Iron Man purchased a smartphone from Stark Tower Tech Store.,"Stark Tower, New York"
+39,2024-02-08,2024-02-08 20:44:20,139.58,luxury items,Iron Man,Stark Industries,Iron Man indulged in luxury shopping at Stark Industries.,"Stark Tower, New York"
+40,2024-02-09,2024-02-09 11:49:10,124.3,dining,Iron Man,Avengers Tower Restaurant,Iron Man enjoyed a meal at Avengers Tower Restaurant.,"Stark Tower, New York"
+41,2024-02-10,2024-02-10 16:26:26,171.81,dining,Spider-Man,Pizza Places,Spider-Man enjoyed a meal at Pizza Places.,"Queens, New York"
+42,2024-02-11,2024-02-11 12:53:03,71.15,electronics,Iron Man,Stark Industries,Iron Man purchased an laptop from Stark Industries.,"Stark Tower, New York"
+43,2024-02-12,2024-02-12 11:03:46,89.65,photography supplies,Spider-Man,Daily Bugle Supplies,Spider-Man purchased photography supplies from Daily Bugle Supplies.,"Queens, New York"
+44,2024-02-13,2024-02-13 10:26:31,74.84,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+45,2024-02-14,2024-02-14 12:06:31,87.59,weapons,Thor,Odin's Armory,Thor bought a weapon from Odin's Armory.,Asgard
+46,2024-02-15,2024-02-15 17:10:01,165.91,photography supplies,Spider-Man,Daily Bugle Supplies,Spider-Man purchased photography supplies from Daily Bugle Supplies.,"Queens, New York"
+47,2024-02-16,2024-02-16 11:28:13,118.2,rare artifacts,Thor,Asgardian Antiques,Thor acquired a rare artifact from Asgardian Antiques.,Asgard
+48,2024-02-17,2024-02-17 10:30:48,72.63,rare artifacts,Thor,Asgardian Antiques,Thor acquired a rare artifact from Asgardian Antiques.,Asgard
+49,2024-02-18,2024-02-18 13:41:51,79.37,dining,Thor,Asgardian Feasts,Thor enjoyed a meal at Asgardian Feasts.,Asgard
+50,2024-02-19,2024-02-19 12:57:38,107.24,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+51,2024-02-20,2024-02-20 18:39:44,47.86,dining,Thor,Asgardian Feasts,Thor enjoyed a meal at Asgardian Feasts.,Asgard
+52,2024-02-21,2024-02-21 17:59:15,94.99,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+53,2024-02-22,2024-02-22 18:35:32,128.55,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+54,2024-02-23,2024-02-23 19:10:32,146.04,dining,Thor,Asgardian Feasts,Thor enjoyed a meal at Asgardian Feasts.,Asgard
+55,2024-02-24,2024-02-24 17:34:16,86.35,electronics,Iron Man,Stark Tower Tech Store,Iron Man purchased a tablet from Stark Tower Tech Store.,"Stark Tower, New York"
+56,2024-02-25,2024-02-25 14:47:26,125.0,weapons,Thor,Odin's Armory,Thor bought a weapon from Odin's Armory.,Asgard
+57,2024-02-26,2024-02-26 17:07:51,36.79,dining,Spider-Man,Food Carts,Spider-Man enjoyed a meal at Pizza Places.,"Queens, New York"
+58,2024-02-27,2024-02-27 11:03:13,29.86,dining,Thor,Asgardian Feasts,Thor enjoyed a meal at Asgardian Feasts.,Asgard
+59,2024-02-28,2024-02-28 19:13:45,103.37,rare artifacts,Thor,Asgardian Antiques,Thor acquired a rare artifact from Asgardian Antiques.,Asgard
+60,2024-02-29,2024-02-29 20:25:33,15.9,dining,Iron Man,Avengers Tower Restaurant,Iron Man enjoyed a meal at New York City Restaurants.,"Stark Tower, New York"
+61,2024-03-01,2024-03-01 20:47:33,14.63,weapons,Thor,Odin's Armory,Thor bought a weapon from Odin's Armory.,Asgard
+62,2024-03-02,2024-03-02 19:46:16,70.16,photography supplies,Spider-Man,Daily Bugle Supplies,Spider-Man purchased photography supplies from Daily Bugle Supplies.,"Queens, New York"
+63,2024-03-03,2024-03-03 15:18:19,164.98,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+64,2024-03-04,2024-03-04 19:09:09,56.65,dining,Iron Man,New York City Restaurants,Iron Man enjoyed a meal at Avengers Tower Restaurant.,"Stark Tower, New York"
+65,2024-03-05,2024-03-05 20:15:55,63.44,dining,Spider-Man,Food Carts,Spider-Man enjoyed a meal at Pizza Places.,"Queens, New York"
+66,2024-03-06,2024-03-06 20:09:26,94.97,rare artifacts,Thor,Asgardian Antiques,Thor acquired a rare artifact from Asgardian Antiques.,Asgard
+67,2024-03-07,2024-03-07 13:49:11,168.43,dining,Iron Man,New York City Restaurants,Iron Man enjoyed a meal at New York City Restaurants.,"Stark Tower, New York"
+68,2024-03-08,2024-03-08 11:36:54,47.7,weapons,Thor,Odin's Armory,Thor bought a weapon from Odin's Armory.,Asgard
+69,2024-03-09,2024-03-09 12:30:21,140.33,photography supplies,Spider-Man,Daily Bugle Supplies,Spider-Man purchased photography supplies from Daily Bugle Supplies.,"Queens, New York"
+70,2024-03-10,2024-03-10 20:40:19,106.13,luxury items,Iron Man,Stark Industries,Iron Man indulged in luxury shopping at Stark Industries.,"Stark Tower, New York"
+71,2024-03-11,2024-03-11 14:33:58,21.34,weapons,Thor,Odin's Armory,Thor bought a weapon from Odin's Armory.,Asgard
+72,2024-03-12,2024-03-12 20:44:07,132.8,dining,Spider-Man,Food Carts,Spider-Man enjoyed a meal at Pizza Places.,"Queens, New York"
+73,2024-03-13,2024-03-13 15:19:12,150.91,photography supplies,Spider-Man,Daily Bugle Supplies,Spider-Man purchased photography supplies from Daily Bugle Supplies.,"Queens, New York"
+74,2024-03-14,2024-03-14 12:57:12,926.6,electronics,Iron Man,Stark Industries,Iron Man purchased a laptop from Stark Industries.,"Stark Tower, New York"
+75,2024-03-15,2024-03-15 18:22:37,135.44,rare artifacts,Thor,Asgardian Antiques,Thor acquired a rare artifact from Asgardian Antiques.,Asgard
+76,2024-03-16,2024-03-16 20:15:03,112.04,dining,Iron Man,New York City Restaurants,Iron Man enjoyed a meal at New York City Restaurants.,"Stark Tower, New York"
+77,2024-03-17,2024-03-17 14:52:47,119.63,dining,Thor,Asgardian Feasts,Thor enjoyed a meal at Asgardian Feasts.,Asgard
+78,2024-03-18,2024-03-18 15:19:57,169.27,dining,Iron Man,New York City Restaurants,Iron Man enjoyed a meal at New York City Restaurants.,"Stark Tower, New York"
+79,2024-03-19,2024-03-19 18:47:07,139.32,dining,Iron Man,New York City Restaurants,Iron Man enjoyed a meal at Avengers Tower Restaurant.,"Stark Tower, New York"
+80,2024-03-20,2024-03-20 12:39:04,93.62,dining,Spider-Man,Pizza Places,Spider-Man enjoyed a meal at Food Carts.,"Queens, New York"
+81,2024-03-21,2024-03-21 21:36:06,170.12,luxury items,Iron Man,Stark Industries,Iron Man indulged in luxury shopping at Stark Industries.,"Stark Tower, New York"
+82,2024-03-22,2024-03-22 12:48:41,22.52,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+83,2024-03-23,2024-03-23 12:38:49,17.54,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+84,2024-03-24,2024-03-24 13:52:39,1205.29,electronics,Iron Man,Stark Industries,Iron Man purchased a gaming console from Stark Industries.,"Stark Tower, New York"
+85,2024-03-25,2024-03-25 13:28:18,21.9,luxury items,Iron Man,Stark Industries,Iron Man indulged in luxury shopping at Stark Industries.,"Stark Tower, New York"
+86,2024-03-26,2024-03-26 17:08:31,182.34,dining,Thor,Asgardian Feasts,Thor enjoyed a meal at Asgardian Feasts.,Asgard
+87,2024-03-27,2024-03-27 10:27:57,151.83,rare artifacts,Thor,Asgardian Antiques,Thor acquired a rare artifact from Asgardian Antiques.,Asgard
+88,2024-03-28,2024-03-28 19:51:18,172.04,weapons,Thor,Odin's Armory,Thor bought a weapon from Odin's Armory.,Asgard
+89,2024-03-29,2024-03-29 15:52:40,52.31,web-slinging equipment,Spider-Man,Web-Shooters R Us,Spider-Man restocked web-slinging equipment from Web-Shooters R Us.,"Queens, New York"
+90,2024-03-30,2024-03-30 13:14:43,112.11,weapons,Thor,Odin's Armory,Thor bought a weapon from Odin's Armory.,Asgard
+91,2024-03-31,2024-03-31 11:04:03,769.92,electronics,Iron Man,Stark Industries,Iron Man purchased a gaming console from Stark Industries.,"Stark Tower, New York"

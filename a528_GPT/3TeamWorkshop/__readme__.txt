@@ -1,0 +1,1 @@
+This folder is where you will work on drafts of your Team Challenge GPT exercises to evaluate the usefulness of this new technology to build an Audit Application that helps automate various audit related data analytic tasks. Details are found on the course website and submission portal on Canvas.  
